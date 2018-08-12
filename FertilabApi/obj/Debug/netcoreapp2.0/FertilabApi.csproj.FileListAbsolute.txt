@@ -1,0 +1,11 @@
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\bin\Debug\netcoreapp2.0\FertilabApi.deps.json
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\bin\Debug\netcoreapp2.0\FertilabApi.runtimeconfig.json
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\bin\Debug\netcoreapp2.0\FertilabApi.runtimeconfig.dev.json
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\bin\Debug\netcoreapp2.0\FertilabApi.dll
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\bin\Debug\netcoreapp2.0\FertilabApi.pdb
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.csprojAssemblyReference.cache
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.csproj.CoreCompileInputs.cache
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.AssemblyInfoInputs.cache
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.AssemblyInfo.cs
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.dll
+c:\users\stefanotoppi\source\repos\FertilabApi\FertilabApi\obj\Debug\netcoreapp2.0\FertilabApi.pdb
