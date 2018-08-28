@@ -11,6 +11,8 @@ namespace FertilabApi.Models
         public FertilabContext(DbContextOptions<FertilabContext> options) : base(options)
         {
         }
+
+        public DbSet<User> User { get; set; }
         public DbSet<Center> Center { get; set; }
     }
 }

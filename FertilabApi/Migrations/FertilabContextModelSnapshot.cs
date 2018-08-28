@@ -51,6 +51,18 @@ namespace FertilabApi.Migrations
 
                     b.ToTable("Center");
                 });
+
+            modelBuilder.Entity("FertilabApi.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("Code");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("User");
+                });
 #pragma warning restore 612, 618
         }
     }

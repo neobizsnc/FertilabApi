@@ -13,5 +13,10 @@ C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\Error.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\_Layout.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Users\Create.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Users\Delete.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Users\Details.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Users\Edit.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Users\Index.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\_ViewImports.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\_ViewStart.cshtml
