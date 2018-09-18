@@ -57,7 +57,7 @@ namespace FertilabApi
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Centers}/{action=Index}/{id?}");
             });
         }
     }
