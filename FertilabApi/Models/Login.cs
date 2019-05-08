@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 
 namespace FertilabApi.Models
 {
-    public class User
+    public class Login
     {
-        public int Id { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
     }

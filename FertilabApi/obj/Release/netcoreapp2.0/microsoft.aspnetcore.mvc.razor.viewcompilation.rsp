@@ -10,6 +10,8 @@ C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Home\About.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Home\Contact.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Home\Index.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Login\Create.cshtml
+--file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Privacy\Index.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\Error.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\_Layout.cshtml
 --file=C:\Users\stefanotoppi\source\repos\FertilabApi\FertilabApi\Views\Shared\_ValidationScriptsPartial.cshtml

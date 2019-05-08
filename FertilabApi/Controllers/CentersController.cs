@@ -21,7 +21,12 @@ namespace FertilabApi.Controllers
         // GET: Centers
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Center.ToListAsync());
+            string cookieValueFromReq = Request.Cookies["lgg"];
+            if(cookieValueFromReq == "true")
+            {
+                return View(await _context.Center.ToListAsync());
+            }
+            return RedirectToAction("Create", "Login");
         }
 
         // GET: Centers/Details/5

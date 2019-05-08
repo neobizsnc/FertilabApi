@@ -13257,11 +13257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\FertilabApi.csproj",
+      "projectUniqueName": "C:\\Users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\FertilabApi.csproj",
       "projectName": "FertilabApi",
-      "projectPath": "c:\\users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\FertilabApi.csproj",
+      "projectPath": "C:\\Users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\FertilabApi.csproj",
       "packagesPath": "C:\\Users\\stefanotoppi\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\obj\\",
+      "outputPath": "C:\\Users\\stefanotoppi\\source\\repos\\FertilabApi\\FertilabApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

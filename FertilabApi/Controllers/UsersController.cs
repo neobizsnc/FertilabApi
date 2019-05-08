@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FertilabApi.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace FertilabApi.Controllers
 {
@@ -23,6 +24,8 @@ namespace FertilabApi.Controllers
         {
             return View(await _context.User.ToListAsync());
         }
+
+
 
         // GET: Users/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -53,7 +56,7 @@ namespace FertilabApi.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Code")] User user)
+        public async Task<IActionResult> Create([Bind("Id,Email,Password")] User user)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +88,7 @@ namespace FertilabApi.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Code")] User user)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Email,Password")] User user)
         {
             if (id != user.Id)
             {

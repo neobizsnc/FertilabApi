@@ -57,7 +57,9 @@ namespace FertilabApi.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("Code");
+                    b.Property<string>("Email");
+
+                    b.Property<string>("Password");
 
                     b.HasKey("Id");
 
